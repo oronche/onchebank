@@ -1,0 +1,19 @@
+ul{
+    list-style-type: none;
+    padding:0;
+}
+
+li a{
+    background-color: rgb(216, 209, 209);
+    display:block;
+    width:90px;
+    color:black;
+}
+li a:hover {
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+.active{
+    background-color: yellow;
+    color: white;
+}
